@@ -1,0 +1,4 @@
+/home/vitalyr/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/182.4505.18/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/vitalyr/projects/c/data_structures/data_structures
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vitalyr/projects/c/data_structures/data_structures/cmake-build-debug

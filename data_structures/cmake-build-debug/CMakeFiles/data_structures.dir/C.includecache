@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vitalyr/projects/c/data_structures/data_structures/code_snippets.h
+
+/home/vitalyr/projects/c/data_structures/data_structures/main.c
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+code_snippets.h
+/home/vitalyr/projects/c/data_structures/data_structures/code_snippets.h
+
