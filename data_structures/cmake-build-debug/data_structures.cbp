@@ -79,13 +79,19 @@
 		<Unit filename="/home/vitalyr/projects/c/data_structures/data_structures/code_snippets.h">
 			<Option target="data_structures"/>
 		</Unit>
-		<Unit filename="/home/vitalyr/projects/c/data_structures/data_structures/list.h">
+		<Unit filename="/home/vitalyr/projects/c/data_structures/data_structures/const_values.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="/home/vitalyr/projects/c/data_structures/data_structures/linked_list.h">
 			<Option target="data_structures"/>
 		</Unit>
 		<Unit filename="/home/vitalyr/projects/c/data_structures/data_structures/main.c">
 			<Option target="data_structures"/>
 		</Unit>
 		<Unit filename="/home/vitalyr/projects/c/data_structures/data_structures/queue.h">
+			<Option target="data_structures"/>
+		</Unit>
+		<Unit filename="/home/vitalyr/projects/c/data_structures/data_structures/squence_list.h">
 			<Option target="data_structures"/>
 		</Unit>
 		<Unit filename="/home/vitalyr/projects/c/data_structures/data_structures/stack.h">

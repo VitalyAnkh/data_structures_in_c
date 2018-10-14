@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <malloc.h>
 #include "code_snippets.h"
-#include "list.h"
+#include "squence_list.h"
 
 
 

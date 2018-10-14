@@ -5,15 +5,7 @@
 #ifndef DATA_STRUCTURES_LIST_H
 #define DATA_STRUCTURES_LIST_H
 
-#endif //DATA_STRUCTURES_LIST_H
-
-
-#define MAXSIZE_OF_LIST 100
-#define OK 1
-#define ERROR 0
-#define TRUE 1
-#define FALSE 0
-
+#include "const_values.h"
 
 
 typedef int Result; //using Result expressing the state of operation(failure or success)
@@ -62,13 +54,10 @@ Result DeleteElement(SquenceList *L, int i, ElementType *e) {
 }
 
 
-//! This is the implementation of linked list.
 
-//! Define LinkedList
-typedef struct node{
-    ElementType data;
-    struct node *next;
-} Node;
-typedef struct Node *LinkedList;
+
+#endif //DATA_STRUCTURES_LIST_H
+
+
 
 
